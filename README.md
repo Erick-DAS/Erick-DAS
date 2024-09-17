@@ -10,8 +10,6 @@
     </h2>
 </div>
 
----
-
 ## 👤 About me
 
 :book: Computer engineering undergraduate at POLI-USP<br>
