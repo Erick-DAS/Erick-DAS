@@ -1,6 +1,6 @@
 <!--TODO: Change profile picture-->
 <div align="center" id="header">
-    <img src="https://avatars.githubusercontent.com/u/111514805?v=4/" width=100px> 
+    <img src="![alt text](file.png)" width=100px> 
     <div align="center">
         <a href="https://www.linkedin.com/in/erick-diogo-de-almeida-sousa-baa410269/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
