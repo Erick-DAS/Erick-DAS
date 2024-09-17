@@ -1,6 +1,5 @@
-<!--TODO: Change profile picture-->
 <div align="center" id="header">
-    <img src="file.png" width=100px> 
+    <img src="file.png" width=150px> 
     <div align="center">
         <a href="https://www.linkedin.com/in/erick-diogo-de-almeida-sousa-baa410269/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,7 +21,7 @@
 ## 💻 Experience
 - Back end development
 - Robotics/Embedded systems
-- Hardware projects
+- Hardware projects with FPGA
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TS](https://img.shields.io/badge/typescript-%2300599C.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
 
